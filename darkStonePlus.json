@@ -1,12 +1,14 @@
-    {
-        "author" : "ProoXy", 
-        "name" : "darkStonePlus", 
-        "keyWords" : "darkStone,Assombris,Noir",
-        "version" : "1.0.0",
-        "dofusVersion" : "2.43", 
-        "description" : "Reprise du theme darkStone et assombris, theme simple sans image dégeu rajouté.", 
-        "url" : "https://github.com/Prooxy/darkStonePlus/blob/master/darkStonePlus.zip",
-        "previewUrl" : "https://image.prntscr.com/image/fwejFRpYTWKVGOAucjZYig.png", 
-        "creationDate" : "16/10/2017", 
-        "modificationDate" : "16/10/2017"
-    } 
+[
+  {
+    "author": "Prooxy",
+    "name": "FlatDark",
+    "keyWords": "Modern,darkStonePlus,,Dark,Black,Prooxy",
+    "version": "2.43.0",
+    "dofusVersion": "2.43",
+    "description": "Theme darkStone assombris",
+    "url": "https://github.com/Prooxy/darkStonePlus/raw/master/darkStonePlus.zip",
+    "previewUrl": "https://raw.githubusercontent.com/Prooxy/darkStonePlus/master/darkStonePreview.png",
+    "creationDate": "15/10/2016",
+    "modificationDate": "16/09/2017"
+  }
+]
